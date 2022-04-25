@@ -1,3 +1,4 @@
+
 function addition_Function() {
     var addition = 2 + 2;
     document.getElementById("math0").innerHTML = "2 + 2 = " + addition;
@@ -46,3 +47,5 @@ window.alert(Math.random() * 100); // get random number between 0 and 100
 
 window.alert(Math.E); // return Euler's number
 window.alert(Math.PI); // returns Pi 
+
+
