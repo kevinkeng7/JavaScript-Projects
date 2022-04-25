@@ -10,3 +10,4 @@ function my_Dictionary() {
     delete Animal.Sound; //removes Animal.Sound from "Dictionary"
     document.getElementById("Dictionary").innerHTML = Animal.Sound; //retrieves Animal.Sound from "Dictionary"
 }
+
